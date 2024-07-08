@@ -1,2 +1,5 @@
-testing
+<<<<<<< HEAD
 branch1
+=======
+Newtext
+>>>>>>> 05a4c16ee14523475c056293c16d6574e22a430d
